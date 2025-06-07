@@ -42,7 +42,7 @@ GlobalGeoTree is a comprehensive global dataset for tree species classification,
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/GlobalGeoTree.git
+git clone https://github.com/MUYang99/GlobalGeoTree.git
 cd GlobalGeoTree
 
 # Install dependencies
