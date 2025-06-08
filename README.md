@@ -8,10 +8,11 @@ GlobalGeoTree is a comprehensive global dataset for tree species classification,
 
 - **Total Samples**: 6.3 million geolocated tree occurrences
 - **Geographic Coverage**: 221 countries/regions
-- **Taxonomic Coverage**: 
+- **Taxonomic Coverage**:
   - 275 families
   - 2,734 genera
   - 21,001 species
+
 - **Data Features**:
   - Sentinel-2 time series (12 monthly composites)
   - 27 auxiliary environmental variables
